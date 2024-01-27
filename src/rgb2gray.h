@@ -1,4 +1,5 @@
 #ifndef _rgb2gray_h_
+#define _rgb2gray_h_
 
 #ifdef __cplusplus
 extern "C"
